@@ -1,0 +1,104 @@
+﻿Tipo,Fecha,Fijar hora,Título,Monto,Moneda,Tipo de Cambio,Nombre del grupo de categorías,Categoría,Cuenta,Notas,Etiquetas,Estado
+Gastos,08/03/2021 12:25,12:25,Izzi,-800,MXN,1,Servicios,Internet,TDD BBVA Noé,,,Ninguno
+Gastos,07/03/2021 11:41,11:41,Soriana,-2821,MXN,1,Casa,Supermercado,TDD BBVA Noé,,,Ninguno
+Transferir,07/03/2021 11:40,11:40,Otros,-500,MXN,1,(Transferir),(Transferir),TDD BBVA Noé,,,Ninguno
+Gastos,07/03/2021 11:40,11:40,Didi,-29.7,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Soriana a casa,,Ninguno
+Gastos,06/03/2021 11:46,11:46,Otros,-2500,MXN,1,Casa,"Cuidado personal (Nutriólogo, Suplementos, Depilación, Arreglo)",TDD BBVA Noé,Estilista Ivonne ,,Ninguno
+Gastos,06/03/2021 11:45,11:45,Uber Eats,-394,MXN,1,Casa,Comida Preparada,TDD BBVA Noé,Simpsons Burgers,,Ninguno
+Gastos,05/03/2021 11:51,11:51,Uber,-59.94,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Casa a Psikids ,,Ninguno
+Gastos,05/03/2021 11:50,11:50,Didi,-65.78,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Psikids a casa suegros ,,Ninguno
+Transferir,05/03/2021 11:49,11:49,Otros,-1100,MXN,1,(Transferir),(Transferir),TDD BBVA Noé,,,Ninguno
+Gastos,05/03/2021 11:48,11:48,Uber Eats,-140.45,MXN,1,Casa,Comida Preparada,TDD BBVA Noé,Little Caesars,,Ninguno
+Gastos,04/03/2021 12:00,12:00,SADM,-261,MXN,1,Servicios,Agua,TDD BBVA Noé,,,Ninguno
+Gastos,04/03/2021 12:00,12:00,Oxxo,-74,MXN,1,Casa,Consumibles No Indispensables,TDD BBVA Noé,Coca y galletas,,Ninguno
+Gastos,04/03/2021 11:58,11:58,Uber,-28.79,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Hospitaria a casa suegros ,,Ninguno
+Gastos,04/03/2021 11:57,11:57,Uber,-60.62,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Casa a Psikids ,,Ninguno
+Gastos,04/03/2021 11:57,11:57,Didi,-38.88,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Psikids a casa suegros ,,Ninguno
+Gastos,03/03/2021 12:08,12:08,Uber,-28.62,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Casa a colegios,,Ninguno
+Gastos,03/03/2021 12:07,12:07,Uber,-78.21,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Colegios a casa,,Ninguno
+Gastos,03/03/2021 12:06,12:06,Uber,-107.05,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Casa a Psikids ,,Ninguno
+Gastos,03/03/2021 12:03,12:03,Sams Club,-1691.57,MXN,1,Casa,Supermercado,TDD BBVA Noé,Alimentos y artículos de limpieza,,Ninguno
+Gastos,03/03/2021 12:02,12:02,7 Eleven,-90.5,MXN,1,Casa,Consumibles No Indispensables,TDD BBVA Noé,Botana ,,Ninguno
+Gastos,03/03/2021 12:02,12:02,Didi,-46.38,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Psikids a casa suegros ,,Ninguno
+Gastos,03/03/2021 11:44,11:44,Oxxo,-14,MXN,1,Casa,Consumibles No Indispensables,TDD BBVA Noé,Bebida,,Ninguno
+Gastos,03/03/2021 09:17,09:17,Netflix,-196,MXN,1,Servicios,"Streaming (Netflix, Youtube Premium, Disney+, Amazon Prime)",TDD BBVA Noé,Netflix,,Ninguno
+Gastos,03/03/2021 09:16,09:16,Alebrijes,-400,MXN,1,Otros,Mantenimiento de la colonia,TDD BBVA Noé,Mantenimiento de marzo 2021,,Ninguno
+Gastos,02/03/2021 09:38,09:38,Uber,-70.38,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Casa a Hsbc,,Ninguno
+Gastos,02/03/2021 09:37,09:37,Uber,-27.4,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Hsbc a Plaza Sendero ,,Ninguno
+Transferir,02/03/2021 09:36,09:36,Otros,-25000,MXN,1,(Transferir),(Transferir),TDD BBVA Noé,,,Ninguno
+Gastos,02/03/2021 09:23,09:23,Uber,-42.82,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Plaza Sendero a casa,,Ninguno
+Gastos,02/03/2021 09:21,09:21,Oxxo,-86,MXN,1,Casa,Consumibles No Indispensables,TDD BBVA Noé,Botana,,Ninguno
+Gastos,02/03/2021 09:20,09:20,Uber,-61.54,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Casa a Psikids,,Ninguno
+Gastos,02/03/2021 09:18,09:18,Didi,-42.83,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Psikids a casa suegros,,Ninguno
+Gastos,01/03/2021 22:36,22:36,Uber,-106.54,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Casa a Psikids,,Ninguno
+Gastos,01/03/2021 22:35,22:35,Psikids,-1250,MXN,1,Casa,"Cuidado personal (Nutriólogo, Suplementos, Depilación, Arreglo)",TDD BBVA Noé,Sesiones Isaac y Noeli,,Ninguno
+Gastos,01/03/2021 22:35,22:35,Didi,-39.85,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Psikids a casa suegros,,Ninguno
+Transferir,01/03/2021 10:43,10:43,Otros,9000,MXN,1,(Transferir),(Transferir),TDD BBVA Noé,,,Ninguno
+Transferir,01/03/2021 10:42,10:42,Otros,-24846.82,MXN,1,(Transferir),(Transferir),TDD BBVA Noé,Para liquidación de deudas,,Ninguno
+Ingresos,01/03/2021 09:41,09:41,Google,200,MXN,1,Otros,Otros,TDD BBVA Noé,Devoluciones ,,Ninguno
+Ingresos,01/03/2021 09:40,09:40,Paypal,149,MXN,1,Otros,Otros,TDD BBVA Noé,Devolución de compra a Paypal,,Ninguno
+Gastos,28/02/2021 10:53,10:53,Tacos Wicho,-220,MXN,1,Casa,Comida Preparada,TDD BBVA Noé,Desayuno ,,Ninguno
+Gastos,28/02/2021 10:53,10:53,Uber,-65.11,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Casa a casa suegros,,Ninguno
+Transferir,28/02/2021 10:48,10:48,Otros,-1200,MXN,1,(Transferir),(Transferir),TDD BBVA Noé,,,Ninguno
+Gastos,28/02/2021 10:46,10:46,Amazon,-99,MXN,1,Servicios,"Streaming (Netflix, Youtube Premium, Disney+, Amazon Prime)",TDD BBVA Noé,Amazon Prime,,Ninguno
+Gastos,28/02/2021 10:45,10:45,Amazon,-45.03,MXN,1,Casa,Supermercado,TDD BBVA Noé,Cuidado dental ,,Ninguno
+Gastos,27/02/2021 10:59,10:59,Amazon,-206,MXN,1,Casa,"Cuidado personal (Nutriólogo, Suplementos, Depilación, Arreglo)",TDD BBVA Noé,Preservativos ,,Ninguno
+Transferir,27/02/2021 10:58,10:58,Otros,9000,MXN,1,(Transferir),(Transferir),TDD BBVA Noé,,,Ninguno
+Gastos,27/02/2021 10:57,10:57,Uber,-119,MXN,1,Otros,Otros,TDD BBVA Noé,Uber Pass,,Ninguno
+Gastos,27/02/2021 10:57,10:57,Uber,-48.73,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Ver Focus a casa,,Ninguno
+Gastos,27/02/2021 10:56,10:56,Uber,-33.28,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Casa a ver Focus,,Ninguno
+Gastos,27/02/2021 10:55,10:55,Todoist,-79,MXN,1,Otros,"Otras apps (Todoist, Busuu, MindMeister)",TDD BBVA Noé,Todoist,,Ninguno
+Gastos,27/02/2021 10:55,10:55,Don Chule,-326.06,MXN,1,Casa,Supermercado,TDD BBVA Noé,Carne,,Ninguno
+Gastos,27/02/2021 10:54,10:54,Oxxo,-130,MXN,1,Casa,Consumibles No Indispensables,TDD BBVA Noé,Botana,,Ninguno
+Transferir,26/02/2021 22:45,22:45,Otros,9000,MXN,1,(Transferir),(Transferir),TDD BBVA Noé,,,Ninguno
+Gastos,26/02/2021 22:45,22:45,Udemy,-175,MXN,1,Educación,Inscripción,TDD BBVA Noé,Compra de 1 curso en Udemy,,Ninguno
+Gastos,26/02/2021 22:44,22:44,Paypal,-149,MXN,1,Otros,Otros,TDD BBVA Noé,Devolución de compra a Paypal,,Ninguno
+Gastos,26/02/2021 22:42,22:42,Uber,-108.72,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Casa a ver auto,,Ninguno
+Gastos,26/02/2021 22:41,22:41,Uber,-55.26,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Ver autos,,Ninguno
+Gastos,26/02/2021 22:40,22:40,John Hams,-457.6,MXN,1,Casa,Comida Preparada,TDD BBVA Noé,Comida fuera,,Ninguno
+Gastos,26/02/2021 22:40,22:40,Uber,-27.65,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Ver auto a casa,,Ninguno
+Gastos,26/02/2021 22:39,22:39,Uber,-134.29,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Casa a Psikids,,Ninguno
+Gastos,26/02/2021 22:38,22:38,Uber,-37.07,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Psikids a casa suegros,,Ninguno
+Gastos,26/02/2021 11:01,11:01,Otros,-570,MXN,1,Casa,Supermercado,TDD BBVA Noé,Pescado y camarones ,,Ninguno
+Gastos,26/02/2021 11:00,11:00,Oxxo,-65,MXN,1,Casa,Supermercado,TDD BBVA Noé,Agua y refrescos,,Ninguno
+Gastos,25/02/2021 23:37,23:37,UVEG,-226,MXN,1,Educación,Colegiatura,TDD BBVA Noé,Pago de materia Noé ,,Ninguno
+Ingresos,25/02/2021 23:37,23:37,Amazon,429,MXN,1,Otros,Otros,TDD BBVA Noé,Devolución Amazon ,,Ninguno
+Transferir,25/02/2021 23:35,23:35,Otros,9000,MXN,1,(Transferir),(Transferir),TDD BBVA Noé,,,Ninguno
+Ingresos,25/02/2021 23:35,23:35,Otros,27000,MXN,1,Empleador,Salario,TDD BBVA Noé,,,Ninguno
+Gastos,25/02/2021 23:34,23:34,Doterra,-1700,MXN,1,Casa,"Cuidado personal (Nutriólogo, Suplementos, Depilación, Arreglo)",TDD BBVA Noé,Aceites Doterra,,Ninguno
+Gastos,25/02/2021 23:34,23:34,Uber,-82.96,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Casa a Psikids,,Ninguno
+Gastos,25/02/2021 23:33,23:33,Uber,-40.81,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Psikids a casa suegros ,,Ninguno
+Gastos,24/02/2021 23:40,23:40,Uber,-119.33,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Casa a Psikids,,Ninguno
+Gastos,24/02/2021 23:38,23:38,Uber,-29.89,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Psikids a casa suegros,,Ninguno
+Gastos,23/02/2021 23:45,23:45,Uber,-108.42,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Casa a ver Liberty ,,Ninguno
+Gastos,23/02/2021 23:44,23:44,Uber,-66.95,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Ver Liberty a Plaza Sendero ,,Ninguno
+Gastos,23/02/2021 23:44,23:44,Uber,-37.58,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Plaza Sendero a casa,,Ninguno
+Gastos,23/02/2021 23:43,23:43,Uber,-57.56,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Casa a Psikids,,Ninguno
+Gastos,23/02/2021 23:43,23:43,Psikids,-1000,MXN,1,Casa,"Cuidado personal (Nutriólogo, Suplementos, Depilación, Arreglo)",TDD BBVA Noé,Sesiones Isaac y Noeli,,Ninguno
+Gastos,23/02/2021 23:42,23:42,Uber,-29.31,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Psikids a casa,,Ninguno
+Gastos,22/02/2021 23:53,23:53,Uber,-67.92,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Casa a Psikids,,Ninguno
+Gastos,22/02/2021 23:52,23:52,Uber,-31.48,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Psikids a casa suegros ,,Ninguno
+Gastos,22/02/2021 23:47,23:47,DiDi Food,-544.82,MXN,1,Casa,Comida Preparada,TDD BBVA Noé,,,Ninguno
+Gastos,22/02/2021 17:26,17:26,Amazon,-50.78,MXN,1,Entretenimiento,Compras,TDD BBVA Noé,"Libro Noé, Hábitos Atómico s",,Ninguno
+Gastos,20/02/2021 11:01,11:01,Amazon,-402.66,MXN,1,Entretenimiento,Compras,TDD BBVA Noé,Case Ivonne ,,Ninguno
+Transferir,20/02/2021 10:59,10:59,Otros,-1000,MXN,1,(Transferir),(Transferir),TDD BBVA Noé,,,Ninguno
+Gastos,20/02/2021 10:58,10:58,HEB,-4433,MXN,1,Casa,Supermercado,TDD BBVA Noé,Despensa y ropa niños,,Ninguno
+Gastos,20/02/2021 10:58,10:58,Uber,-46.31,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,HEB a casa,,Ninguno
+Gastos,20/02/2021 10:57,10:57,Uber,-37.89,MXN,1,Transporte,Servicios de transporte,TDD BBVA Noé,Casa a HEB,,Ninguno
+Gastos,19/02/2021 17:09,17:09,Ajuste,-152.11,MXN,1,Otros,Otros,TDD BBVA Noé,Ajuste de cuentas,,Reconciliado
+Gastos,19/02/2021 15:37,15:37,Google,-100,MXN,1,Otros,Otros,TDD BBVA Noé,"Error de compra, se devuelve en una semana",,Reconciliado
+Gastos,19/02/2021 09:36,09:36,Tacos Wicho,-240,MXN,1,Casa,Comida Preparada,TDD BBVA Noé,Desayuno ,,Reconciliado
+Gastos,18/02/2021 23:05,23:05,Farmacias Guadalajara,-580,MXN,1,Casa,Supermercado,TDD BBVA Noé,Leche Isaac,,Reconciliado
+Gastos,17/02/2021 15:23,15:23,Infonavit,-8723.49,MXN,1,Deudas,Hipoteca,TDD BBVA Noé,,,Reconciliado
+Gastos,17/02/2021 13:25,13:25,Uber Eats,-205.8,MXN,1,Casa,Comida Preparada,TDD BBVA Noé,Doña Tota,,Reconciliado
+Gastos,16/02/2021 17:48,17:48,7 Eleven,-89.5,MXN,1,Casa,Supermercado,TDD BBVA Noé,,,Reconciliado
+Gastos,16/02/2021 15:57,15:57,Telcel,-1248.19,MXN,1,Servicios,Planes Telefónicos,TDD BBVA Noé,Plan Noé,,Reconciliado
+Gastos,16/02/2021 15:57,15:57,Telcel,-1281.57,MXN,1,Servicios,Planes Telefónicos,TDD BBVA Noé,Plan Ivonne,,Reconciliado
+Gastos,16/02/2021 15:56,15:56,Telcel,-445.62,MXN,1,Servicios,Internet,TDD BBVA Noé,Internet Telcel,,Reconciliado
+Gastos,16/02/2021 15:56,15:56,TotalPlay,-389,MXN,1,Otros,Otros,TDD BBVA Noé,Ya había sido cubierto,,Reconciliado
+Gastos,16/02/2021 15:53,15:53,Noé Oliva,-1000,MXN,1,Otros,Gustos No Comprobables,TDD BBVA Noé,Noé Oliva,,Reconciliado
+Gastos,15/02/2021 16:03,16:03,Betterware,-340,MXN,1,Entretenimiento,Compras,TDD BBVA Noé,Artículos para el hogar,,Reconciliado
+Gastos,15/02/2021 16:02,16:02,Uber Eats,-258.3,MXN,1,Casa,Comida Preparada,TDD BBVA Noé,Pesacaderias Martinez Tijerina,,Reconciliado
+Gastos,15/02/2021 16:01,16:01,Uber Eats,-231.9,MXN,1,Casa,Comida Preparada,TDD BBVA Noé,John Ham's,,Reconciliado
+Gastos,15/02/2021 16:00,16:00,Afirme,-34.8,MXN,1,Otros,Otros,TDD BBVA Noé,Comisión bancaria por retiro,,Reconciliado
+Transferir,15/02/2021 15:59,15:59,Otros,-5500,MXN,1,(Transferir),(Transferir),TDD BBVA Noé,,,Reconciliado
